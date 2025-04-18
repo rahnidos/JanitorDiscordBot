@@ -1,0 +1,4 @@
+{
+    "hello_message": "Witaj!",
+    "ready_message": "Zalogowano jako {bot_name}"
+}
