@@ -1,4 +1,5 @@
 {
     "hello_message": "Witaj!",
-    "ready_message": "Zalogowano jako {bot_name}"
+    "ready_message": "Zalogowano jako {bot_name}",
+    "clean_over": "Czyszczenie zakończone"
 }
